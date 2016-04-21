@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiadiploma00empegoog_0010.png"; bbox 0 0 4500 5956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 258 1109 433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 258 1109 433">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 258 1109 433; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 304 258 632 419; x_wconf 42' lang='grc' dir='ltr'>«ὠμὴ</span> <span class='ocrx_word' id='word_1_2' title='bbox 681 330 1109 433; x_wconf 51' lang='lat' dir='ltr'>dum...-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2286 1773 3224 1952">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2286 1773 3224 1952">
+     <span class='ocr_line' id='line_1_2' title="bbox 2286 1773 3224 1952; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 2286 1828 2390 1913; x_wconf 48' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_4' title='bbox 2413 1822 2594 1952; x_wconf 47' lang='grc' dir='ltr'>ἕῳ</span> <span class='ocrx_word' id='word_1_5' title='bbox 2706 1773 2948 1937; x_wconf 41' lang='lat' dir='ltr'>Q&amp;</span> <span class='ocrx_word' id='word_1_6' title='bbox 2991 1811 3224 1915; x_wconf 36' lang='grc' dir='ltr'>,ξω</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2403 1976 2956 2140">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2403 1976 2956 2140">
+     <span class='ocr_line' id='line_1_3' title="bbox 2403 1976 2956 2139; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 2403 1980 2502 2115; x_wconf 46' lang='grc' dir='ltr'>Ὃ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2531 1976 2755 2093; x_wconf 44' lang='lat' dir='ltr'>&amp;W</span> <span class='ocrx_word' id='word_1_9' title='bbox 2829 1982 2956 2139; x_wconf 38' lang='grc' dir='ltr'>Ἦ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2547 2094 2590 2140; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 2547 2094 2590 2140; x_wconf 54' lang='lat'>0.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2162 2128 3577 2299">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2162 2128 3577 2299">
+     <span class='ocr_line' id='line_1_5' title="bbox 2162 2128 3577 2299; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 2162 2128 2572 2240; x_wconf 49' lang='lat' dir='ltr'>QQ}</span> <span class='ocrx_word' id='word_1_12' title='bbox 2679 2150 2796 2235; x_wconf 42' lang='lat' dir='ltr'>Q&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 2833 2147 3577 2299; x_wconf 43' lang='lat' dir='ltr'>RwssgffiQffix</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2303 2516 3205 2662">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2303 2516 3205 2662">
+     <span class='ocr_line' id='line_1_6' title="bbox 2303 2516 3205 2662; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 2303 2516 2521 2662; x_wconf 43' lang='lat' dir='ltr'>DQ&amp;</span> <span class='ocrx_word' id='word_1_15' title='bbox 2569 2532 2704 2606; x_wconf 59' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_16' title='bbox 2775 2545 2900 2607; x_wconf 19' lang='lat' dir='ltr'>xm*</span> <span class='ocrx_word' id='word_1_17' title='bbox 2934 2539 3205 2649; x_wconf 37' lang='lat' dir='ltr'>orm&amp;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
